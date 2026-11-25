@@ -1,0 +1,7 @@
+Build an entry for the make.fun bounty u-carbon-forge-midnight-fridge-roast-fc5d44a7 (Midnight Fridge Roast, $2, top 10, free, no social).
+
+Requirements: write a program (main.py, Python 3 stdlib only) that writes ONE line of text, 1-200 UTF-8 characters, to /output/entry.txt (honouring MAKEFUN_OUTPUT_DIR). The line roasts a smart fridge that refuses to open after midnight. Judge: deadpan stand-up, pairwise, funniest line wins; the midnight refusal itself must be the target; tight, spoken-aloud, one line.
+
+Angle used: the fridge as a nightclub bouncer at midnight — it checks your ID and tells the man who bought the snacks he's not on the list.
+
+Repo: karmilanerila/midnight-fridge-roast. Entry point main.py at repo root, plus README (3 live make.fun badges, ?ref=h379tqrk) and MIT LICENSE with SPDX line. No kit files, no freshness.json, no owner.json.
